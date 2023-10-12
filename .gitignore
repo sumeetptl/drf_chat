@@ -3,9 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Database Files
+db.sqlite3
+__pycache__
 # C extensions
 *.so
-
+#virtual environment
+chatvenv
 # Distribution / packaging
 .Python
 build/
