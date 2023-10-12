@@ -1,0 +1,7 @@
+openapi: 3.0.3
+info:
+  title: DRF CHAT APP API
+  version: 1.0.0
+  description: An chat app with various servers
+paths: {}
+components: {}
